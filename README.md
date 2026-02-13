@@ -47,3 +47,6 @@ hhlink/
 * Data Italy - Final.RDS – Original survey data from the Italian Survey of Household Income and Wealth.
 
 The 2016-2020 folder mirrors the structure of the main folder, but all files correspond to the 2016–2020 survey waves.
+
+**Important note:** Some data files are very large. If you encounter any issues accessing them, please contact me at thaispacheco1207@gmail.com
+.

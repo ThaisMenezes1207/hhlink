@@ -11,7 +11,7 @@
 
 ```text
 hhlink/
-├─ Code/                       
+├─ main/                       
 │  ├─ Basic Variables.R         # Functions to compute basic database statistics used throughout the code (e.g., ranges of variables)
 │  ├─ LinearProgrammingIndividuals.R  # Functions to run linear programming optimization for individual matches
 │  ├─ Pairs1.R                  # Code to generate all possible pairs of individuals in the first database
